@@ -57,14 +57,18 @@ width: 80%;
 .skills1{
     margin: 20px;
     padding: 10px;
-    border-left: 6px solid blue;
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
 }
-.skills2{
+#baby-web-developer{
     border-left: 6px solid tomato;
 }
 
-footer{
+#full-stack-developer{
+    border-left: 6px solid blue;
+}
+
+
+footer p{
     text-align: center;
 }
